@@ -1,0 +1,34 @@
+/* TO check if our CSS is working properly 
+    background-color: aqua;
+}
+
+*/
+
+/* 2. Use CSS to change all the color titles to have "font-weight: normal;" */
+img {
+    width: 200px;
+    height: auto;
+}
+
+.color-title {
+    font-weight: normal;
+   
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color:blue ;
+}
+
+#orange {
+    color:orange  ;
+}
+#green {
+    color:green  ;
+}
+#yellow {
+    color: yellow ;
+}
